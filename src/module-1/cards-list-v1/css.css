@@ -1,0 +1,128 @@
+body {
+  background: rgb(218, 216, 216);
+  font-family: 'Montserrat', sans-serif;
+}
+
+.wrapper{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.card1 {
+  width: 400px;
+  margin: 10px;
+  height: 430px;
+  background: #F9F9F9;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.135216);
+}
+
+.jbl{
+  width: 106px;
+  margin-left: 50px;
+}
+
+.place{
+  margin-left: 315px;
+}
+
+
+
+.align1{
+  margin-top:31px;
+}
+.iphone{
+  width: 260px;
+  margin-top: 30px;
+}
+
+
+.align{
+  margin-top:22px;
+}
+
+.beast{
+  width:180px;
+}
+
+.align2{
+  margin-top:38px;
+}
+
+.macbook{
+  margin-top:39px;
+  width: 300px;
+}
+
+.align3{
+  margin-top:51px;
+}
+
+.ipad{
+  width: 200px;
+  margin-top: 46px;
+}
+img {
+  display: block;
+  padding: 19px 93px;
+  margin-bottom: 10px;
+  width: 215px;
+}
+
+.percentage {
+  border-radius: 3px;
+  margin: 0 225px 0 20px;
+  padding: 4px 17px;
+  color: white;
+}
+
+.star {
+  font-style: normal;
+  font-weight: 100;
+  font-size: 16px;
+  color: white;
+}
+.topic {
+  color: #0e0d0d;
+  font-weight: 400;
+  line-height: 10px;
+  margin-left: 20px;
+}
+
+.text {
+  font-weight: 300;
+  font-size: 12px;
+  margin: -18px 0 15px 20px;
+}
+
+button {
+  background: #6F64F8;
+  border: 0;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.btn {
+  width: 50%;
+  height: 44px;
+  padding: 0;
+}
+
+.wish {
+  background-color: #dad8d8;
+  border-radius: 0 0 0 8px;
+}
+
+.add {
+  border-radius: 0 0 8px 0;
+  color: white;
+}
+
+.divBtn{
+  font-size: 0;
+  display: block;
+}
+
+
+
